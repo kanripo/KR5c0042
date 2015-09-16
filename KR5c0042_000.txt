@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:17:05.082877
+#+TITLE: 老子像名經
+#+PROPERTY: DZID  DZ0661
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—452 十卷（六、七、八卷原缺） 洞神部本文類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
